@@ -1,0 +1,12 @@
+Index: app/src/main/java/com/example/simplenoteapplication/Merge.java
+===================================================================
+diff --git a/app/src/main/java/com/example/simplenoteapplication/Merge.java b/app/src/main/java/com/example/simplenoteapplication/Merge.java
+deleted file mode 100644
+--- a/app/src/main/java/com/example/simplenoteapplication/Merge.java	(revision cb8fb0834c1d67b3b057f0beca01c702df0bf4b4)
++++ /dev/null	(revision cb8fb0834c1d67b3b057f0beca01c702df0bf4b4)
+@@ -1,5 +0,0 @@
+-package com.example.simplenoteapplication;
+-
+-public class Merge {
+-    String name;
+-}
